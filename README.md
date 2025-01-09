@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Rutugandh Shete! 🌟
 
-![Profile Animation](https://raw.githubusercontent.com/Rutugandh-shete/your-repo/main/animation.gif)
+![Profile Animation](https://raw.githubusercontent.com/Rutugandh-shete/Rutugandh/main/animation.gif)
 ![Cool Animation](https://raw.githubusercontent.com/Rutugandh-shete/Rutugandh-shete/main/cool-animation.gif)
 ---
 ## 🌐 Connect with Me:
