@@ -1,3 +1,25 @@
+# 👋 Hello, World! I'm Rutugandh Shete! 🌟
+
+![Profile Animation](https://raw.githubusercontent.com/your-username/your-repo/main/animation.gif)
+
+## 🚀 About Me
+- 🎓 **BE in Computer Engineering**
+- ☁️ **Cloud Engineer | DevOps Enthusiast**
+- 🛠️ Experienced in **AWS**, **Kubernetes**, **Terraform**, **Docker**, **Jenkins**, **Ansible**
+- 💻 Passionate about **System Stability**, **Security**, and **Automation**
+- 🤝 Combine technical expertise with **strong communication and teamwork**
+
+## 💡 Highlights
+- 🌟 **Recent Projects:**
+  - 🔧 Netflix Clone with **Jenkins**, **Docker**, and **SonarQube**
+  - 📁 3-Tier Architecture with **Kubernetes**
+
+- 🖥️ **Skills:**
+  - ⚙️ Linux Administration
+  - 📦 Cloud Architecture
+  - 🛠️ CI/CD Pipelines
+
+---
 ## 🌐 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutugandh-shete-4b9a37207/)
