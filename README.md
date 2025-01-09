@@ -8,16 +8,7 @@
 - 🛠️ Experienced in **AWS**, **Kubernetes**, **Terraform**, **Docker**, **Jenkins**, **Ansible**
 - 💻 Passionate about **System Stability**, **Security**, and **Automation**
 - 🤝 Combine technical expertise with **strong communication and teamwork**
-
-## 💡 Highlights
-- 🌟 **Recent Projects:**
-  - 🔧 Netflix Clone with **Jenkins**, **Docker**, and **SonarQube**
-  - 📁 3-Tier Architecture with **Kubernetes**
-
-- 🖥️ **Skills:**
-  - ⚙️ Linux Administration
-  - 📦 Cloud Architecture
-  - 🛠️ CI/CD Pipelines
+![Cool Animation](https://raw.githubusercontent.com/<Rutugandh-shete>/<Rutugandh-shete>/main/cool-animation.gif)
 
 ---
 ## 🌐 Connect with Me:
