@@ -1,7 +1,4 @@
 # 👋 Hello, World! I'm Rutugandh Shete! 🌟
-![Cool Animation](https://raw.githubusercontent.com/Rutugandh-shete/Rutugandh-shete/main/cool-animation.gif)
-![Matrix Animation](https://raw.githubusercontent.com/Rutugandh-shete/Rutugandh-shete/main/matrix-animation.gif)
-
 ---
 ## 🌐 Connect with Me:
 
