@@ -1,6 +1,4 @@
 # 👋 Hello, World! I'm Rutugandh Shete! 🌟
-
-![Profile Animation](https://raw.githubusercontent.com/Rutugandh-shete/Netflix-Clone/main/animation.gif)
 ![Cool Animation](https://raw.githubusercontent.com/Rutugandh-shete/Rutugandh-shete/main/cool-animation.gif)
 ---
 ## 🌐 Connect with Me:
