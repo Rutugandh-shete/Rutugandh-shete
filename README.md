@@ -9,6 +9,8 @@
 - 💻 Passionate about **System Stability**, **Security**, and **Automation**
 - 🤝 Combine technical expertise with **strong communication and teamwork**
 ![Cool Animation](https://raw.githubusercontent.com/<Rutugandh-shete>/<Rutugandh-shete>/main/cool-animation.gif)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rutugandh-shete&layout=compact&theme=radical)
+
 
 ---
 ## 🌐 Connect with Me:
