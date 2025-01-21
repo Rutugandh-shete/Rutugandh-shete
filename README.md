@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Rutugandh Shete! 🌟
+# 👋 Hello, World! I'm Rutugandh Shete!
 ---
 ## 🌐 Connect with Me:
 
