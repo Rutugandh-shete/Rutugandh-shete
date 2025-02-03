@@ -3,6 +3,8 @@
 ## 🌐 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutugandh-shete-4b9a37207/)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rutugandh.shete@outlook.com)
+
 
 ---
 ## 🛠️ Tools & Technologies:
